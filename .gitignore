@@ -5,8 +5,6 @@
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
 
@@ -53,6 +51,7 @@ sysinfo.txt
 
 # Builds
 *.apk
+!Hexfall.apk
 *.unitypackage
 
 # Crashlytics generated file
